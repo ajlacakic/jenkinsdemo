@@ -1,3 +1,3 @@
-def dr(String n){
-  sh "echo haj svrati ${n}"
+def dr(){
+  sh "echo haj svrati "
 }
